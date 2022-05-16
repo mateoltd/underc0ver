@@ -1,6 +1,7 @@
 # Underc0ver
 
-Canal oficial del ZeroDay UnderC0ver. Unicamente funcional en Chrome OS.
+Proyecto descontinuado. 
+Este sistema ha sido parcheado en IMTLazarusv16.27.
 
 # ¿Cómo funciona?
 
